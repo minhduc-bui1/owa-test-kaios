@@ -1,0 +1,9 @@
+{
+    "name": "FoxCasts Lite",
+    "package_path" : "http://localhost/Firefox-OS-Boilerplate-App/Firefox-OS-Boilerplate-App.zip",
+    "version": "2.2.0",
+    "developer": {
+        "name": "Garrett Downs",
+        "url": "https://garrettdowns.com"
+    }
+}
