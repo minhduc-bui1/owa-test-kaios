@@ -1,6 +1,6 @@
 {
     "name": "FoxCasts Lite",
-    "package_path" : "http://localhost/Firefox-OS-Boilerplate-App/Firefox-OS-Boilerplate-App.zip",
+    "package_path" : "https://raw.githubusercontent.com/minhduc-bui1/owa-test-kaios/main/Foxcasts_Lite_v2.3.0.zip",
     "version": "2.2.0",
     "developer": {
         "name": "Garrett Downs",
