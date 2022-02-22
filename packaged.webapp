@@ -1,6 +1,8 @@
 {
     "name": "Firefox OS Boilerplate App",
-    "package_path" : "http://minhduc-bui1.github.io/owa-test-kaios/Firefox-OS-Boilerplate-App.zip",
+    "package_path": "http://minhduc-bui1.github.io/owa-test-kaios/Firefox-OS-Boilerplate-App.zip",
+    "description": "Boilerplate Firefox OS app with examples use cases to get started",
+    "type": "privileged",
     "version": "1",
     "developer": {
         "name": "Robert Nyman",
